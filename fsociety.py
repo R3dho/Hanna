@@ -35,7 +35,8 @@ import glob
 import random
 import Queue
 import threading
-import base64from getpass import getpass
+import base64
+from getpass import getpass
 from xml.dom import minidom
 from urlparse import urlparse
 from optparse import OptionParser
