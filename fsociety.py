@@ -36,10 +36,6 @@ import random
 import queue
 import threading
 import base64 
-import time
-import configparser
-from sys import argv
-from commands import *
 from getpass import getpass
 from xml.dom import minidom
 from urlparse import urlparse
@@ -130,8 +126,8 @@ class fsociety:
         clearScr()
         self.createFolders()
         print (fsocietylogo + color.RED + '''
-       }--------------{+} Coded By Manisso {+}--------------{
-       }--------{+}  GitHub.com/Manisso/fsociety {+}--------{
+       }--------------{+} Coded By R3dho {+}--------------{
+       }--------{+}  GitHub.com/R3dho/Hanna {+}--------{
     ''' + color.END + '''
        {1}--Information Gathering
        {2}--Password Attacks
