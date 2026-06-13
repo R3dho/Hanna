@@ -111,7 +111,6 @@ computer software or hardware or telecommunications equipment;
 
 mrrobot4 = color.NOTICE + '''
 Hello,
-
 this is your last warning,do you proceed,sir
 
 '''
