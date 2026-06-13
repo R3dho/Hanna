@@ -33,11 +33,11 @@ import json
 import telnetlib
 import glob
 import random
-import Queue
+import queue
 import threading
 import base64 
 import time
-import ConfigParser
+import configparser
 from sys import argv
 from commands import *
 from getpass import getpass
